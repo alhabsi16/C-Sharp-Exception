@@ -1,0 +1,15 @@
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\bin\Debug\net6.0\C-Sharp-ApplicationException.exe
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\bin\Debug\net6.0\C-Sharp-ApplicationException.deps.json
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\bin\Debug\net6.0\C-Sharp-ApplicationException.runtimeconfig.json
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\bin\Debug\net6.0\C-Sharp-ApplicationException.dll
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\bin\Debug\net6.0\C-Sharp-ApplicationException.pdb
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\obj\Debug\net6.0\C-Sharp-ApplicationException.csproj.AssemblyReference.cache
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\obj\Debug\net6.0\C-Sharp-ApplicationException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\obj\Debug\net6.0\C-Sharp-ApplicationException.AssemblyInfoInputs.cache
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\obj\Debug\net6.0\C-Sharp-ApplicationException.AssemblyInfo.cs
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\obj\Debug\net6.0\C-Sharp-ApplicationException.csproj.CoreCompileInputs.cache
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\obj\Debug\net6.0\C-Sharp-ApplicationException.dll
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\obj\Debug\net6.0\refint\C-Sharp-ApplicationException.dll
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\obj\Debug\net6.0\C-Sharp-ApplicationException.pdb
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\obj\Debug\net6.0\C-Sharp-ApplicationException.genruntimeconfig.cache
+C:\Users\TRA\source\repos\C-Sharp-ApplicationException\C-Sharp-ApplicationException\obj\Debug\net6.0\ref\C-Sharp-ApplicationException.dll
